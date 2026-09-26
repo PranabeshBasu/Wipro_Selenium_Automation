@@ -1,5 +1,4 @@
 test_case,username,password,expected_result,product,quantity
-valid_login,pbasu2308@gmail.com,pranabesh0023,success,MacBook,2
 valid_login,your_email,your_password,success,MacBook,2
 invalid_password,your_email,wrongpassword,failure,MacBook,1
 invalid_username,wrong@example.com,your_password,failure,MacBook,3
