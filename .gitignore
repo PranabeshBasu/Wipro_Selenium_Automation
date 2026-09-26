@@ -1,0 +1,37 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTest
+.pytest_cache/
+
+# Robot Framework Generated Files
+output.xml
+log.html
+report.html
+
+# Selenium / Test Generated Files
+reports/
+screenshots/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Build Files
+*.egg-info/
+build/
+dist/
